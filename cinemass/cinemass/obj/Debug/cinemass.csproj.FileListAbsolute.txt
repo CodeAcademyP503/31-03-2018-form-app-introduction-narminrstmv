@@ -1,0 +1,12 @@
+C:\Users\narmin\source\repos\cinemass\cinemass\bin\Debug\cinemass.exe.config
+C:\Users\narmin\source\repos\cinemass\cinemass\bin\Debug\cinemass.exe
+C:\Users\narmin\source\repos\cinemass\cinemass\bin\Debug\cinemass.pdb
+C:\Users\narmin\source\repos\cinemass\cinemass\obj\Debug\cinemass.csprojResolveAssemblyReference.cache
+C:\Users\narmin\source\repos\cinemass\cinemass\obj\Debug\cinemass.Form1.resources
+C:\Users\narmin\source\repos\cinemass\cinemass\obj\Debug\cinemass.Properties.Resources.resources
+C:\Users\narmin\source\repos\cinemass\cinemass\obj\Debug\cinemass.csproj.GenerateResource.Cache
+C:\Users\narmin\source\repos\cinemass\cinemass\obj\Debug\cinemass.csproj.CoreCompileInputs.cache
+C:\Users\narmin\source\repos\cinemass\cinemass\obj\Debug\cinemass.exe
+C:\Users\narmin\source\repos\cinemass\cinemass\obj\Debug\cinemass.pdb
+C:\Users\narmin\source\repos\cinemass\cinemass\obj\Debug\cinemass.Form2.resources
+C:\Users\narmin\source\repos\cinemass\cinemass\obj\Debug\cinemass.Form3.resources
